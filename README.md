@@ -1,2 +1,4 @@
 # bash_profile
-Bash profile
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+Just my bash_profile file
