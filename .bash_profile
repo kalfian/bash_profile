@@ -1,3 +1,4 @@
+
 #Android Path for React native
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/tools
@@ -14,6 +15,10 @@ alias swift="cd /Users/kalfian/Documents/swift"
 alias njs="cd /Users/kalfian/Documents/NodeJs"
 alias as="cd /Users/kalfian/Documents/AndroidStudio"
 alias htdocs="cd /Applications/XAMPP/xamppfiles/htdocs"
+alias r="cd /Users/kalfian/Documents/React"
 
 #alias Xampp
 alias xampp="sudo /Applications/XAMPP/xamppfiles/xampp"
+
+#alias IP
+alias ip="ipconfig getifaddr en0;ipconfig getifaddr en1"
