@@ -16,18 +16,16 @@ PATH="/usr/local/opt/icu4c/sbin:$PATH"
 cowsay "Seng tenang ojo goyang 😘"
 
 #Alias enter path
-alias rn="cd $HOME/Documents/Developments/ReactNative"
-alias swift="cd $HOME/Documents/Developments/swift"
-alias golang="cd $HOME/Documents/Developments/Golang"
-alias and="cd $HOME/Documents/Developments/android"
-alias njs="cd $HOME/Documents/Developments/Node"
-alias as="cd $HOME/Documents/Developments/AndroidStudio"
+alias rn="cd $HOME/Developments/ReactNative"
+alias swift="cd $HOME/Developments/swift"
+alias golang="cd $HOME/Developments/Golang"
+alias and="cd $HOME/Developments/android"
+alias njs="cd $HOME/Developments/Node"
+alias as="cd $HOME/Developments/AndroidStudio"
 alias htdocs="cd /Applications/XAMPP/xamppfiles/htdocs"
-alias r="cd $HOME/Documents/Developments/React"
+alias r="cd $HOME/Developments/React"
 alias iosdevice="xcrun simctl list devices"
 alias document="cd $HOME/Documents"
-
-alias ngrok="$HOME/Documents/anu/ngrok"
 
 #alias Xampp
 alias xampp="sudo /Applications/XAMPP/xamppfiles/xampp"
